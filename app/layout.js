@@ -28,6 +28,9 @@ export default function RootLayout({ children }) {
                   <a href="/analytics" className="text-gray-500 hover:text-gray-700 inline-flex items-center px-1 pt-1 text-sm font-medium">
                     Аналитика
                   </a>
+                  <a href="/monitoring" className="text-gray-500 hover:text-gray-700 inline-flex items-center px-1 pt-1 text-sm font-medium">
+                    Мониторинг
+                  </a>
                 </div>
               </div>
               <div className="flex items-center">

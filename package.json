@@ -19,7 +19,10 @@
     "postcss": "^8.4.31",
     "@vercel/analytics": "^1.1.1",
     "axios": "^1.6.0",
-    "date-fns": "^2.29.3"
+    "date-fns": "^2.29.3",
+    "exceljs": "^4.3.0",
+    "google-auth-library": "^9.0.0",
+    "nodemailer": "^6.9.0"
   },
   "devDependencies": {
     "eslint": "^8",

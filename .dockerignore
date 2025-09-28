@@ -1,0 +1,45 @@
+# Зависимости
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Next.js
+.next/
+out/
+build/
+
+# Переменные окружения
+.env
+.env.local
+.env.production
+
+# Vercel
+.vercel
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Логи
+*.log
+
+# README и документация
+README.md
+
+# Тестовые файлы
+*.test.js
+*.spec.js
+__tests__/

@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react'
 import {
   Bell,
   Download,
-  Refresh,
+  RotateCcw as Refresh,
   TrendingUp,
   AlertTriangle,
   Info,
